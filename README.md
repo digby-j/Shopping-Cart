@@ -32,7 +32,7 @@ In the future I would like style the page more, give it more functionality with 
 
 ## Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,jake-digby.github.io,eyes&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,digby-j.github.io,eyes,PacMan&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
 
 ## License
 ![](https://img.shields.io/github/license/digby-j/Shopping-Cart)
