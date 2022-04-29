@@ -38,7 +38,7 @@ In the future I would like style the page more, give it more functionality with 
 ![](https://img.shields.io/github/license/digby-j/Shopping-Cart)
 
 ### Please read the MIT License here:
-<a href src="./Shopping-Cart/LICENSE">MIT License</a>
+<a href src="./LICENSE">MIT License</a>
 
 ## Contact Information
 ### Let's Connect
