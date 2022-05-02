@@ -9,8 +9,9 @@ Functionality includes:
 - Add or delete products from the cart
 - Restocking Functionality.
 
-You can also check out my other projects and about me [here](https://github.com/digby-j)
-or my Portfolio Website - also with on GitHub Pages [here](https://digby-j.github.io/)
+Thanks for your Interest! 😎
+- You can also check out my other projects and about me [here](https://github.com/digby-j)
+- or my Portfolio Website - also with on GitHub Pages [here](https://digby-j.github.io/)
 
 ## Installation
 
