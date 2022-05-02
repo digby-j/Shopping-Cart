@@ -35,10 +35,10 @@ In the future I would like style the page more, give it more functionality with 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digby-j&exclude_repo=digby-j,jake-digby.github.io,eyes&layout=compact)](https://github.com/digby-j/eyes/github-readme-stats)
 
 ## License
-![](https://img.shields.io/github/license/digby-j/Shopping-Cart)
+![](https://img.shields.io/github/license/digby-j/Shoping-Cart)
 
 ### Please read the MIT License here:
-[License](https://github.com/digby-j/Shopping-Cart/blob/main/LICENSE)
+[License](https://github.com/digby-j/Shoping-Cart/blob/main/LICENSE)
 
 ## Contact Information
 ### Let's Connect
